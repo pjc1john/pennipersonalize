@@ -89475,7 +89475,7 @@ module.exports = "<app-banner>\r\n</app-banner>\r\n<div class=\"content\">\r\n  
 /* 718 */
 /***/ function(module, exports) {
 
-module.exports = "<div class=\"landing-wrapper\">\n    <img class=\"animated pulse\" src=\"assets/img/logo-icon.png\" alt=\"\">\n    <h3>PenniPersonalize</h3>\n    <h5>Graphic Design & Printing Services</h5>\n    <a class=\"button enter  animated slideInLeft\" href=\"/home\">EXPLORE <img src=\"assets/img/arrow-btn.png\" alt=\"\"> </a>\n</div>"
+module.exports = "<div class=\"landing-wrapper\">\n    <img class=\"animated pulse\" src=\"assets/img/logo-icon.png\" alt=\"\">\n    <h3>PenniPersonalize</h3>\n    <h5>Graphic Design & Printing Services</h5>\n    <a class=\"button enter  animated slideInLeft\" href=\"https://pjc1john.github.io/pennipersonalize/home\">EXPLORE <img src=\"assets/img/arrow-btn.png\" alt=\"\"> </a>\n</div>"
 
 /***/ },
 /* 719 */
